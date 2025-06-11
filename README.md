@@ -5,7 +5,7 @@
 Thanks for visiting my profile. I'm a Computer Science student at the University of British Columbia with a passion for computer vision, deep learning, and AI research.
 
 You'll find my contact information and links to my professional profiles below.
-
+[Resume](CV.pdf)
 ---
 
 ## Contact Information
