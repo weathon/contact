@@ -11,7 +11,7 @@ You'll find my contact information and links to my professional profiles below.
 ## Contact Information
 
 * **📧 Email:** [wg25r@student.ubc.ca](mailto:wg25r@student.ubc.ca)
-* **📞 Phone:** `+1 (778) 594-4288`
+* **📞 Phone:** `(Canada) +1 (778) 594-4288` `(US) +1 (314) 643-7644`
 
 ## Professional Profiles & Links
 
